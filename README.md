@@ -75,6 +75,20 @@ Text similarity engine that scores resumes against job descriptions using NLP. M
 </p>
 ---
 
+## 🧩 DSA & Coding Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/KunalXCode?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krkunal1011&theme=tokyonight&hide_border=true"/>
+</p>
+---
+
 <p align="center">
   <i>Open to internship opportunities in AI Engineering & Backend Development</i><br/>
   <a href="mailto:krkunal1011@gmail.com">krkunal1011@gmail.com</a>
