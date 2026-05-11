@@ -82,12 +82,6 @@ Text similarity engine that scores resumes against job descriptions using NLP. M
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krkunal1011&theme=tokyonight&hide_border=true"/>
-</p>
----
 
 <p align="center">
   <i>Open to internship opportunities in AI Engineering & Backend Development</i><br/>
