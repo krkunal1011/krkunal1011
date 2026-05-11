@@ -73,16 +73,6 @@ Text similarity engine that scores resumes against job descriptions using NLP. M
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krkunal1011&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krkunal1011&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 ---
 
 <p align="center">
