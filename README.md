@@ -25,9 +25,9 @@ kunal@dev:~$ cat about.txt
 
 kunal@dev:~$ cat stack.txt
 🧠 AI / ML      →  Gemini 1.5, Sentence Transformers, Vector Embeddings, NLP
-⚙️  Backend      →  Python, FastAPI, Django REST Framework, Node.js
+⚙️ Backend      →  Python, FastAPI, Django REST Framework, Node.js
 🎨 Frontend     →  React, Tailwind CSS, HTML5, CSS3
-🗄️  Databases    →  Vector DB (Endee), MySQL, MongoDB
+🗄️ Databases    →  Vector DB (Endee), MySQL, MongoDB
 🐳 DevOps       →  Docker, Git, GitHub, Postman
 
 kunal@dev:~$ echo $MOTTO
