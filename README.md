@@ -22,11 +22,11 @@ Kunal_Kumar
 🌍 Based in Dehradun, India · Open to Remote Internships
 
 kunal@dev:~$ cat stack.txt
-🧠 AI / ML      →  Gemini 1.5, Sentence Transformers, Vector Embeddings, NLP
-⚙️ Backend      →  Python, FastAPI, Django REST Framework, Node.js
-🎨 Frontend     →  React, Tailwind CSS, HTML5, CSS3
-🗄️ Databases    →  Vector DB (Endee), MySQL, MongoDB
-🐳 DevOps       →  Docker, Git, GitHub, Postman
+🧠 AI / ML   →   Multimodal LLM, Sentence Transformers, NLP (TF-IDF, Cosine Similarity), LLM Integration
+⚙️ Backend   →  Python, FastAPI, Django REST Framework, Node.js
+🎨 Frontend  →  React, Tailwind CSS, HTML5, CSS3
+🗄️ Databases →  Vector DB (Endee), MySQL, MongoDB
+🐳 DevOps    →  AWS, Docker, Git, GitHub, Postman
 
 kunal@dev:~$ echo $MOTTO
 "Ship it. Learn from it. Build the next one better."
