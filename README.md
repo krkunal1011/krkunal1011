@@ -14,9 +14,8 @@
 ---
 
 ```bash
-kunal@dev:~$ whoami
-kunal_kumar
-
+kunal@dev:- whoami
+Kunal_Kumar
 🎓 B.Tech Computer Science · Uttaranchal University (2023–2027)
 🤖 Focused on AI Engineering · LLM Integration · Backend Development
 🚀 I build real products, not just experiments
